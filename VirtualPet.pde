@@ -5,11 +5,6 @@ void setup(){
 }
 void draw(){
   //more of your code here
-  void setup(){
-  size(400,400);
-}
-
-void draw(){
   noStroke();
   fill(255,255,0);
   rect(125,100,135,145);
@@ -60,5 +55,5 @@ void draw(){
   rect(174.5,209.75,37.5,17.5);
   arc(193,225.25,38,21.5,0,PI);
 }
-}
+
 
